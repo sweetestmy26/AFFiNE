@@ -14,6 +14,7 @@ export const PackageList = [
       'blocksuite/affine/blocks/divider',
       'blocksuite/affine/blocks/edgeless-text',
       'blocksuite/affine/blocks/embed',
+      'blocksuite/affine/blocks/xtreme-toolkitpro-15_1',
       'blocksuite/affine/blocks/embed-doc',
       'blocksuite/affine/blocks/frame',
       'blocksuite/affine/blocks/image',
